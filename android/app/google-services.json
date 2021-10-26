@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "303470935729",
+    "project_id": "first-backend-8de84",
+    "storage_bucket": "first-backend-8de84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303470935729:android:be39f72aa022b064e1ac90",
+        "android_client_info": {
+          "package_name": "com.backend.airplane"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303470935729-i3i2jqr8s25k17spsikj2h9qelc9uanj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBzkeX6ovJ_o6x-qBHeDfrs8mmTTQOSbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303470935729-i3i2jqr8s25k17spsikj2h9qelc9uanj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
